@@ -1,7 +1,6 @@
-# Techies Hub With Smart Assistance
-:rocket: [Link to website](https://techies-hub.vercel.app/)
 
-Techies Hub is a fully functional EdTech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
+
+Tech Hub is a fully functional EdTech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
 
 ## Table of Contents
 
@@ -137,7 +136,10 @@ Access the application in your browser at `http://localhost:3000`.
 
 
 The project is set up to use `postcss-cli` to process your CSS files. You can add your own `tailwind.config.js` file to customize your Tailwind setup.
-#   s c h o l a r - s - h u b  
- #   s c h o l a r - s - h u b  
- #   s c h o l a r - s - h u b  
+#   s c h o l a r - s - h u b 
+ 
+ #   s c h o l a r - s - h u b 
+ 
+ #   s c h o l a r - s - h u b 
+ 
  
