@@ -1,0 +1,11 @@
+{
+    "name": "Techies Hub",
+    "id": "/",
+    "short_name": "Techies Hub",
+    "description": "An Ed Tech Web App for Students and Instructors",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#001B22",
+    "theme_color": "#001B22"
+  }
+  
