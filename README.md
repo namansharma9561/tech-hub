@@ -139,4 +139,5 @@ Access the application in your browser at `http://localhost:3000`.
 The project is set up to use `postcss-cli` to process your CSS files. You can add your own `tailwind.config.js` file to customize your Tailwind setup.
 #   s c h o l a r - s - h u b  
  #   s c h o l a r - s - h u b  
+ #   s c h o l a r - s - h u b  
  
